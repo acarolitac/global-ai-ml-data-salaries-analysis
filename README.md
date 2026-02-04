@@ -2,11 +2,11 @@
 
 Projeto de **Análise de Dados** desenvolvido a partir do **Global AI, ML & Data Science Salaries Dataset** (Kaggle), com o objetivo de analisar padrões salariais na área de Dados considerando **nível de experiência, cargo, tipo de trabalho e localização**.
 
-O projeto contempla **ETL, Análise Exploratória (EDA)** e a construção de um **Dashboard Interativo com Streamlit**, simulando um pipeline completo de análise de dados aplicado a um cenário real.
+O projeto contempla **ETL, Análise Exploratória (EDA)** e a construção de um **Dashboard Interativo com Streamlit**.
 
 O foco principal foi:
 - Consolidar conhecimentos em **análise de dados end-to-end**
-- Criar visualizações interativas para **apoio à tomada de decisão**
+- Criar **visualizações interativas**
 - Aplicar boas práticas de organização, código e documentação
 
 ---
@@ -77,13 +77,12 @@ global-data-salaries-analysis/
 
 ### Análise Salarial
 - Os salários variam entre **USD 15.000 e USD 800.000 anuais**, indicando alta dispersão
-- A média salarial (~USD 159.000) é maior que a mediana, sugerindo **assimetria**
-- Cargos de **liderança e executivos** apresentam as maiores médias salariais
+- A média salarial é maior que a mediana, sugerindo **assimetria**
+- Cargos de **liderança** apresentam as maiores médias salariais
 - Profissionais com maior experiência tendem a receber salários mais elevados
 
 ### Porte da Empresa
 - Empresas de **médio porte** apresentam a maior média salarial na base analisada
-- Não há evidência de relação direta entre maior porte e maior remuneração
 - Resultados podem ser influenciados pela representatividade de cada grupo
 
 ---
@@ -93,7 +92,6 @@ Este projeto permitiu consolidar conhecimentos em:
 - Construção de pipelines **ETL**
 - **Análise Exploratória de Dados** com Python
 - Criação de **dashboards interativos**
-- Visualização de dados para tomada de decisão
 - Organização de projetos e boas práticas de documentação
 
 ---
@@ -101,7 +99,7 @@ Este projeto permitiu consolidar conhecimentos em:
 ## 💚 Créditos
 - Projeto base: **Imersão Python com Dados – Alura**
 - Dataset: Kaggle – Global AI, ML & Data Science Salaries
-- Customizações, análises e melhorias: **Ana Carolina Itacarambi**
+- Customizações, insights e melhorias: **Ana Carolina Itacarambi**
 
 ---
 
@@ -117,7 +115,3 @@ Tecnóloga em Sistemas para Internet em transição para a área de Dados, com f
       />
     </a>
 </p>
-
----
-
-⭐ Se você gostou deste projeto, considere deixar uma estrela no repositório!
