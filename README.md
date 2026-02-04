@@ -98,7 +98,7 @@ Este projeto permitiu consolidar conhecimentos em:
 
 ---
 
-## 💚 Créditos e Referências
+## 💚 Créditos
 - Projeto base: **Imersão Python com Dados – Alura**
 - Dataset: Kaggle – Global AI, ML & Data Science Salaries
 - Customizações, análises e melhorias: **Ana Carolina Itacarambi**
