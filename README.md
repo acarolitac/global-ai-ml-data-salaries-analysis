@@ -104,8 +104,7 @@ Este projeto permitiu consolidar conhecimentos em:
 ---
 
 ## Autora
-**Ana Carolina Itacarambi**  
-Tecnóloga em Sistemas para Internet em transição para a área de Dados, com foco em **Análise de Dados**.
+**Ana Carolina Itacarambi**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/" target="_blank">
