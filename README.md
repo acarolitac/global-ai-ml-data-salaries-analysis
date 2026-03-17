@@ -66,7 +66,7 @@ global-data-salaries-analysis/
 ```
 ---
 
-## 📊 Principais Insights
+## 💡 Principais Insights
 
 - A maioria dos profissionais da amostra atua em nível **Sênior**
 - O **contrato em tempo integral** é o mais frequente
@@ -100,17 +100,3 @@ Este projeto permitiu consolidar conhecimentos em:
 - Projeto base: **Imersão Python com Dados – Alura**
 - Dataset: Kaggle – Global AI, ML & Data Science Salaries
 - Customizações, insights e melhorias: **Ana Carolina Itacarambi**
-
----
-
-## Autora
-**Ana Carolina Itacarambi**
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/ana-carolina-itacarambi-araujo/" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"
-      />
-    </a>
-</p>
