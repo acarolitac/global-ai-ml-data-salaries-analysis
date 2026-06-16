@@ -66,7 +66,7 @@ global-data-salaries-analysis/
 ```
 ---
 
-## Visualize o Dashboard no Streamlit
+## Visualize o Dashboard no Streamlit (Clique na imagem)
 
 [![Dashboard](docs/dashboard_global_salaries.png.jpg)](https://global-ai-ml-data-salaries-analysis.streamlit.app/)
 
