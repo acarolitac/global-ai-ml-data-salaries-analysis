@@ -5,7 +5,7 @@ Projeto de **Análise de Dados** desenvolvido a partir do **Global AI, ML & Data
 O projeto contempla **ETL, Análise Exploratória (EDA)** e a construção de um **Dashboard Interativo com Streamlit**.
 
 O foco principal foi:
-- Consolidar conhecimentos em **análise de dados end-to-end**
+- Consolidar conhecimentos em **análise de dados**
 - Criar **visualizações interativas**
 - Aplicar boas práticas de organização, código e documentação
 
